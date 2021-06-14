@@ -1,3 +1,226 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.hpccss.edu.hk/sites/all/themes/ntemplate/images/icon/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>A.S. Watson Group HK Student Sports Awards 2019/2020 | Hoi Ping Chamber of Commerce Secondary School</title>
+  <link type="text/css" rel="stylesheet" href="http://www.hpccss.edu.hk/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.hpccss.edu.hk/sites/default/files/css/css_EPsgvacVXxxhwhLr4DGj8P1D4es4L_QnnRJPHn_TJHE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.hpccss.edu.hk/sites/default/files/css/css_t-e55N3t_grlBry2ly-d-7mrMOUETX6Q3SpPnUEshLY.css" media="all" />
+  <script type="text/javascript" src="http://www.hpccss.edu.hk/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"ntemplate","theme_token":"tFiIZ2zwRPtJo6Bl7djmK3XS-sw4p2w_PtFRe5NFw5M","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/event-calendar\/css\/spider_calendar_fieldset.css":1}}});
+//--><!]]>
+</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="shortcut icon" href="/sites/all/themes/ntemplate/images/favicon.ico" />
+  <link rel="stylesheet" type="text/css" href="/sites/all/themes/ntemplate/css/style.css" />
+  <link rel='stylesheet' type="text/css" href="/sites/all/themes/ntemplate/css/mobile.css" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">  
+  <!-- Menu -->
+  <link rel="stylesheet" type="text/css" href="/sites/all/themes/ntemplate/ddsmoothmenu/ddsmoothmenu.css" />
+  <script type="text/javascript" src="/sites/all/themes/ntemplate/ddsmoothmenu/jquery.min.js"></script>
+  <script type="text/javascript" src="/sites/all/themes/ntemplate/ddsmoothmenu/ddsmoothmenu.js"></script>
+  <script type="text/javascript">
+    ddsmoothmenu.init({
+        mainmenuid: "smoothmenu1", //menu DIV id
+        orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+        classname: 'ddsmoothmenu', //class added to menu's outer DIV
+        //customtheme: ["#1c5a80", "#18374a"],
+        contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+    })
+    ddsmoothmenu.init({
+        mainmenuid: "smoothmenu2", //Menu DIV id
+        orientation: 'v', //Horizontal or vertical menu: Set to "h" or "v"
+        classname: 'ddsmoothmenu-v', //class added to menu's outer DIV
+        method: 'toggle', // set to 'hover' (default) or 'toggle'
+        arrowswap: true, // enable rollover effect on menu arrow images?
+        //customtheme: ["#804000", "#482400"],
+        contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+    })
+  </script>
+    
+  <!-- Sub Menu -->
+  <script type="text/javascript" src="/sites/all/themes/ntemplate/js/ddaccordion.js"></script>
+  <!-- Common Javascript -->
+  <script src="/sites/all/themes/ntemplate/js/common.js"></script>
+
+  <!-- Add jQuery library -->
+  <!-- Add mousewheel plugin (this is optional) -->
+  <script type="text/javascript" src="/sites/all/themes/ntemplate/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+  <!-- Add fancyBox main JS and CSS files -->
+  <script type="text/javascript" src="/sites/all/themes/ntemplate/fancybox/source/jquery.fancybox.js?v=2.1.5"></script>
+  <link rel="stylesheet" type="text/css" href="/sites/all/themes/ntemplate/fancybox/source/jquery.fancybox.css?v=2.1.5" media="screen" />
+  <!-- Add Button helper (this is optional) -->
+  <link rel="stylesheet" type="text/css" href="/sites/all/themes/ntemplate/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" />
+  <script type="text/javascript" src="/sites/all/themes/ntemplate/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+  <!-- Add Thumbnail helper (this is optional) -->
+  <link rel="stylesheet" type="text/css" href="/sites/all/themes/ntemplate/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" />
+  <script type="text/javascript" src="/sites/all/themes/ntemplate/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+  <!-- Add Media helper (this is optional) -->
+  <script type="text/javascript" src="/sites/all/themes/ntemplate/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+  <script type="text/javascript" src="/sites/all/themes/ntemplate/fancybox/fancybox.js"></script>
+  <!-- Mobile -->
+  <script src="/sites/all/themes/ntemplate/js/modernizr.min.js"></script>
+  <script src="/sites/all/themes/ntemplate/js/jquery.slicknav.js"></script>
+  <script type="text/javascript">
+      $(document).ready(function(){
+          $('#smoothmenu1').slicknav();
+      });
+  </script>
+       
+  </head>
+<body >
+    <div class="wrap" >
+    <div class="header">
+    <div class="screen">
+    <div id="block-block-1" class="block block-block">
+    <div class="logo">
+      <a href="http://www.hpccss.edu.hk/en/index" title="旅港開平商會中學"><img src="http://www.hpccss.edu.hk/sites/all/themes/ntemplate/images/hpcss.png" alt="旅港開平商會中學" />
+      </a>
+    </div>
+           
+<div class="btn_Login">
+<form onsubmit="return checkLoginForm(this);" target="_parent" name="form1" method="post" action="http://eclass.hpccss.edu.hk/login.php">
+  <div class="intranet">
+    <a href="http://eclass.hpccss.edu.hk/templates/" target="_blank" style="color:#fff">E-Class:</a>
+  </div>
+  <input maxlength="100" size="10" name="UserLogin" class="text" value="User Login" onblur="if (this.value=='') this.value='User Login';" onfocus="if (this.value=='User Login') this.value='';" type="text"> 
+  <input maxlength="20" size="10" name="UserPassword" class="password" value="Password" onblur="if (this.value=='') this.value='Password';" onfocus="if (this.value=='Password') this.value='';" type="password">
+   <input id="login_btn" value="LogIn" url="" name="http://eclass.slcss.edu.hk/login.php" type="submit">
+ </form>
+</div>
+
+<div class="links">
+<ul>
+<li class="green"><a href="http://hoipingmemories.hpccss.edu.hk" target="_blank"><span></span><p>Hoi Ping Memories</p><div class="clear"></div></a></li>
+<li class="orange"><a href="http://www.hpccss.edu.hk/en/hoi-ping-online"><span></span><p>Hoi Ping Online</p><div class="clear"></div></a></li>
+<li class="red"><a href="http://www.hpccss.edu.hk/en/galleries-0" ><span></span><p>Galleries</p><div class="clear"></div></a></li>
+</ul>
+</div>
+<style>.banner_area{ overflow: hidden}</style></div>
+       
+          <div id="nav-wrap">
+		        <div id="block-system-main-menu" class="block block-system block-menu">
+                <div id="smoothmenu1" class="ddsmoothmenu"><ul>
+                  <li class="menu_item"><a href="javascript: void(0);"  ><p></p>About Us</a><ul>
+                    <li ><a href="/en/school-profile"  >School Profile</a></li><li ><a href="/en/vision-and-mission"  >Vision and Mission</a></li><li ><a href="/en/history"  >School History</a></li><li ><a href="/en/school-song"  >School Song</a></li><li ><a href="javascript: void(0);"  >School Management</a><ul><li ><a href="/en/incorporated-management-committee-hpccss"  >IMC</a></li><li ><a href="/en/administrative-structure"  >Administrative structure</a></li></ul></li><li ><a href="javascript: void(0);"  >School Plans</a><ul><li ><a href="/en/3-year-school-development-plan"  >3-Year School Development Plan</a></li><li ><a href="/en/annual-school-plan"  >Annual School Plan</a></li><li ><a href="/en/grants"  >Grants</a></li></ul></li><li ><a href="/en/school-reports"  >School Reports</a></li><li ><a href="/en/teaching-staff"  >Teaching Staff</a></li><li ><a href="/en/school-calendar"  >School Calendar</a></li><li ><a href="/en/school-based-guidelines-handling-complaints"  >School-based Guidelines on Handling Complaints</a></li></ul></li><li class="menu_item"><a href="javascript: void(0);"  ><p></p>Application</a><ul><li ><a href="/en/s1-admission"  >S1 Admission</a></li><li ><a href="/en/life-challenge-award"  >Life Challenge Award</a></li><li ><a href="/en/transcript-application-1"  >Transcript Application</a></li></ul></li><li class="menu_item"><a href="javascript: void(0);"  ><p></p>News</a><ul><li ><a href="/en/subject/appointment-new-principal"  >Appointment of New Principal</a></li><li ><a href="/en/activities"  >School Activities</a></li><li ><a href="/en/subject/awards-and-scholarships"  >Awards and Scholarships</a></li><li ><a href="/en/subject/newsletters"  >Newsletters</a></li><li ><a href="/en/subject/media-coverage"  >Media Coverage</a></li></ul></li><li class="menu_item"><a href="javascript: void(0);"  ><p></p>Learning & Teaching </a><ul><li ><a href="/en/curriculum-and-moi-policy"  >Curriculum and MOI policy</a></li><li ><a href="/en/stem-education"  >STEM Education</a></li><li ><a href="/en/e-learning"  >e-Learning</a></li><li ><a href="/en/gifted-education"  >Gifted Education</a></li><li ><a href="/en/promotion-reading"  >Reading</a></li><li ><a href="/en/professional-staff-development"  >Staff  Development</a></li><li ><a href="https://www.hkedcity.net/questionbank/en"  target="_blank">HKedCity Online Question Bank</a></li><li ><a href="http://sites.google.com/teacher.hpccss.edu.hk/e-learninghoiping/home"  target="_blank">Google Classrooms for e-Learning</a></li><li ><a href="https://www.hkedcity.net/edbosp/"  target="_blank">EDB One-stop Portal for Learning & Teaching Resources</a></li></ul></li><li class="menu_item"><a href="javascript: void(0);"  ><p></p>Student Development</a><ul><li ><a href="/en/careers-and-guidance"  >Careers and Guidance</a></li><li ><a href="/en/counselling"  >Counselling</a></li><li ><a href="/en/discipline"  >Discipline</a></li><li ><a href="/en/extra-curricular-activities"  >Extra-curricular Activities</a></li><li ><a href="/en/health-education"  >Health Education</a></li><li ><a href="/en/moral-and-civic-education"  >Moral and Civic Education</a></li><li ><a href="/en/other-learning-experiences"  >Other Learning Experiences</a></li><li ><a href="/en/students-union"  >Students' Union</a></li></ul></li><li class="menu_item"><a href="javascript: void(0);"  ><p></p>Achievements</a><ul><li ><a href="/en/subject/2019-hkdse-results"  >HKDSE and University Offers</a></li><li ><a href="/en/awards-external-competitions"  >External Awards and Scholarships</a><ul><li ><a href="/en/academic-2019-20"  >Academic</a></li><li ><a href="/en/outstanding-student-2019-20"  >Outstanding Student</a></li><li ><a href="/en/stem-2018-19"  >STEM</a></li><li ><a href="/en/speech-festival-2019-20"  >Speech Festival</a></li><li ><a href="/en/sports-2019-20"  >Sports</a></li><li ><a href="/en/art-2019-20"  >Art</a></li><li ><a href="/en/dance-2018-19"  >Dance</a></li><li ><a href="/en/drama-2018-19"  >Drama</a></li><li ><a href="/en/music-2018-19"  >Music</a></li><li ><a href="/en/others-2019-20"  >Others</a></li></ul></li><li ><a href="/en/scholarships-and-awards"  >Internal Scholarships</a></li></ul></li></ul></div></div>
+           </div>
+           <div class="clear"></div>    
+       </div>
+</div>
+    
+    <div class="clear"></div>
+
+    <!-- Main Content -->
+    <div class="container" >
+        <div class="screen">
+            <div class="nevigation">
+                <ul> <li><a href="/en" class="home">Home</a></li><li class="sp">></li><li><a href="/en/awards">Awards and Scholarships</a></li><li class="sp">></li><li>A.S. Watson Group HK Student Sports Awards 2019...</li></ul>                <div class="clear"></div>
+            </div>
+            
+            <div class="inner_content_full" id="Information_detail">
+                                <div class="main_content">
+                    <h1>A.S. Watson Group HK Student Sports Awards 2019/2020</h1>
+                    <p class="new_detail_date">Date: <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-06-07T00:00:00+08:00">07/06/2020</span></p>
+                    <p style="text-align: justify;"><span>5B Chung Yui Ying was one of the awardees in A. S. Watson Group Hong Kong Student Sports Awards 2019/2020. Nicole has accomplished outstanding results in athletics. She has won many medals in various athletics competitions. Being the captain of the Girls’ Athletics Team, she has demonstrated passion and good conduct in sports. Congratulations to Nicole!</span></p>                    <div class="clear"></div>
+                                                                                <div class="Album" id="Inner_Type_A">
+                                                                        <ul>
+                        <li><a class="fancybox" href="http://www.hpccss.edu.hk/sites/default/files/album/dscn3292b.jpg" data-fancybox-group="gallery" alt="" title=""><div class="title_des"><img src="http://www.hpccss.edu.hk/sites/default/files/styles/album_type/public/album/dscn3292b.jpg?itok=aTm-Bnt0" /><p></p></div></a><div class="right_desc"></div></li><li><a class="fancybox" href="http://www.hpccss.edu.hk/sites/default/files/album/dscn3295b.jpg" data-fancybox-group="gallery" alt="" title=""><div class="title_des"><img src="http://www.hpccss.edu.hk/sites/default/files/styles/album_type/public/album/dscn3295b.jpg?itok=87E1l685" /><p></p></div></a><div class="right_desc"></div></li>                        </ul>
+                        <div class="clear"></div>
+                    </div>
+                                                                                    <div class="clear"></div>
+                <div class="btn_back"><a href="javascript:history.back();">Back</a></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    
+    <div class="clear"></div>
+    
+        <div id="block-block-12" class="block block-block">
+                <div class="useful_link">
+<div class="screen">
+<div class="bottom_data">
+<div class="bottom_logo"><span><img alt="" src="http://www.hpccss.edu.hk/sites/all/themes/ntemplate/images/icon.png" /></span>
+
+<div class="school_name">
+<p class="chinese">旅港開平商會中學</p>
+
+<p class="english">Hoi Ping Chamber of Commerce Secondary School</p>
+
+<p class="english">&nbsp;</p>
+<p class="english">&nbsp;</p><p class="english">&nbsp;</p>
+<p class="english">&nbsp;</p>
+</div>
+</div>
+
+<div class="footer_logo">
+<div class="bottom_contact">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td align="right" valign="top" width="22%"><span>ADDRESS:</span></td>
+			<td align="left" valign="top">22 Shek Ku Street, Ho Man Tin, Kowloon, Hong Kong</td>
+		</tr>
+		<tr>
+			<td align="right" valign="top"><span>TEL:</span></td>
+			<td align="left" valign="top">2712-3107</td>
+		</tr>
+		<tr>
+			<td align="right" valign="top"><span>FAX:</span></td>
+			<td align="left" valign="top">2712-7190</td>
+		</tr>
+		<tr>
+			<td align="right" valign="top"><span>EMAIL:</span></td>
+			<td align="left" valign="top"><a href="mailto:school@hpccss.edu.hk">school@hpccss.edu.hk</a></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="Userful_link_inside">
+<div class="title">USEFUL LINKS</div>
+
+<ul>
+	<li><a href="http://www.hpccss.edu.hk/en/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91">PTA</a></li>
+	<li><a href="http://www.hpccss.edu.hk/en/2020">Alumni</a></li>
+	<li><a href="http://www.hpccss.edu.hk/en/introduction">School Library</a></li>
+	
+	<li><a href="https://eservices.edb.gov.hk/edis/es/login?locale=en" rel="noopener noreferrer" target="_blank">eServices</a></li>
+	<li><a href="https://www.hkedcity.net" rel="noopener noreferrer" target="_blank">HKedCity</a></li>
+	<li><a href="http://www.hpccss.edu.hk/en/job-vacancies">Job Vacancies</a></li>
+	<li><a href="http://www.hpccss.edu.hk/en/sitemap">Sitemap</a></li>
+	<li><a href="http://www.hpccss.edu.hk/sites/default/files/eClass/Guideline_app_for_parents.pdf" target="_blank">eClass Parent App Guidelines</a></li>
+        <li><a href="https://hpccss.sams.edu.hk/jsp/login.jsp" rel="noopener noreferrer" target="_blank">WebSAMS</a></li>
+</ul>
+
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="clear">&nbsp;</div>
+</div>
+</div>
+</div>
+<div id="block-block-2" class="block block-block">
+                <div class="footer">
+<div class="screen">
+   <div class="copyright">Copyright© 2017 Hoi Ping Chamber of Commerce Secondary School. All Right Reserved</div>
+   <!--<div class="power"><a href="http://ctd.hk/" target="_blank">By: ctd.hk</a></div>-->
+   <div class="clear"></div>
+</div>
+</div>
+<a href="#0" class="cd-top">Top</a></div>
+    
+</div>  </body>
+</html>
+
 MIT License
 
 Copyright (c) 2021 skatau
